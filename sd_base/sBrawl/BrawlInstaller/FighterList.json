@@ -1,0 +1,37 @@
+[
+  {
+    "EntryName": "Ike",
+    "FighterFileName": "Cloud",
+    "FullPacFileName": "cloud/FitCloud.pac",
+    "FullKirbyPacFileName": "kirby/FitKirbyCloud.pac",
+    "ModuleFileName": "ft_cloud.rel",
+    "InternalName": "CLOUD",
+    "DisplayName": "Ike",
+    "Ids": {
+      "FighterConfigId": 63,
+      "CosmeticConfigId": 63,
+      "SlotConfigId": 63,
+      "CSSSlotConfigId": 63,
+      "CosmeticId": 33,
+      "FranchiseId": 15,
+      "TrophyThumbnailId": null,
+      "RecordsIconId": null,
+      "StageId": null,
+      "StageCosmeticId": null,
+      "MasqueradeId": null,
+      "TrophyId": null
+    },
+    "VictoryThemeId": 10331,
+    "CreditsThemeId": null,
+    "SoundbankId": 32,
+    "KirbySoundbankId": 51,
+    "KirbyLoadType": 0,
+    "EffectPacId": null,
+    "KirbyEffectPacId": null,
+    "FighterAttributes": null,
+    "SlotAttributes": null,
+    "CosmeticAttributes": null,
+    "CSSSlotAttributes": null,
+    "ExportFranchiseIcon": true
+  }
+]

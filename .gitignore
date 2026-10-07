@@ -5,3 +5,6 @@ tools/VSDsync/sd.raw
 CLAUDE.md
 sd_base/private/wii/app/rsbe/pf/injects/DEFINE.GCT
 sd_base/private/wii/app/rsbe/pf/injects/MDEF.GCT
+/Code Menu Builder/Code_Menu_Output/CM_Addons
+/Code Menu Builder/Code_Menu_Output
+sd_base/sBrawl/RSBE01.GCT

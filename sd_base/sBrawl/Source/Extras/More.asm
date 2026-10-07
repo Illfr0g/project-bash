@@ -1,0 +1,13 @@
+.include Source/Extras/Tumble.asm
+.include Source/Extras/MoveProp.asm
+.include Source/Extras/Tumble.asm
+.include Source/Extras/Jump.asm
+.include Source/Extras/Dash.asm
+.include Source/Extras/Settings.asm
+.include Source/Extras/StageFreeze.asm
+.include Source/Extras/Glide.asm
+.include Source/Extras/LedgeTrump.asm
+.include Source/Extras/DI.asm
+.include Source/Extras/Rage.asm
+.include Source/Extras/WIKB.asm
+.include Source/Extras/Handicap.asm
